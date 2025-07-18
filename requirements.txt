@@ -1,0 +1,24 @@
+# Data processing & numberical computing
+pandas>=1.5
+numpy>=1.23
+scipy>=1.8
+
+# Visualization & exploratory analysis
+matplotlib>=3.6
+seaborn>=0.12
+kneed>=0.8
+
+# Machine learning libraries
+scikit-learn>=1.2
+xgboost>=1.7
+imbalanced-learn>=0.10
+
+# Deep learning libraries
+tensorflow>=2.10
+keras-tuner>=1.1
+
+# Model explanability
+shap>=0.42
+
+# Utilities
+joblib>=1.2

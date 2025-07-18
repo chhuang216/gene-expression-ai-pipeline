@@ -1,0 +1,11 @@
+Random Forest - Classification Report on Test Set:
+              precision    recall  f1-score   support
+
+           0       0.77      0.93      0.85        44
+           1       0.40      0.14      0.21        14
+
+    accuracy                           0.74        58
+   macro avg       0.59      0.54      0.53        58
+weighted avg       0.68      0.74      0.69        58
+
+ROC AUC: 0.6713

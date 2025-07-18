@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  pipeline:
+    build: .
+    volumes:
+      - ./data:/app/data:ro
+      - ./src/data:/app/src/data
+      - ./src/models:/app/src/models
+      - ./src/scalers:/app/src/scalers
+      - ./src/figures:/app/src/figures
+      - ./src/reports:/app/src/reports
+    tty: true

@@ -1,0 +1,21 @@
+{
+  "num_layers": 1,
+  "units_0": 96,
+  "activation": "tanh",
+  "batchnorm_0": false,
+  "dropout_0": false,
+  "lr": 0.0008637918074781524,
+  "units_1": 96,
+  "batchnorm_1": true,
+  "dropout_1": true,
+  "units_2": 192,
+  "batchnorm_2": true,
+  "dropout_2": true,
+  "drop_rate_0": 0.30000000000000004,
+  "units_3": 192,
+  "batchnorm_3": false,
+  "dropout_3": false,
+  "drop_rate_1": 0.2,
+  "drop_rate_2": 0.1,
+  "drop_rate_3": 0.5
+}

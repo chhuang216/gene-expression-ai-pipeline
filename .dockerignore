@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.vscode/
+.git/
+data/                # raw data lives here on host
+.env                 # if you ever add env files
